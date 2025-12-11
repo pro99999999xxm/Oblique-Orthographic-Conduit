@@ -13,7 +13,7 @@ following purpose:
 
 	Leaving no trace, it operates light,
 	Dynamically floating, just out of sight.
-	Balanced perfectly for those who demand,
+	Balanced perfectly for those who demand.
 
 
 **Usage:**
