@@ -1,7 +1,7 @@
 **Oblique Orthographic Conduit** is a sophisticated, intuitive 
 software solution that elegantly balances functionality and 
 seamless user experience. It was designed for aproach the 
-following purpoes:
+following purpose:
 
 	Bringing seamless ease to your desktop’s space,
 	
