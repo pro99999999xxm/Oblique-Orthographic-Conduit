@@ -3,7 +3,7 @@
 **Oblique Orthographic Conduit** 是一款兼具功能性与极致顺滑体验的轻量工具。  
 它的初衷是为了：
 
-> Seamless ease to your desktop’s space,  
+> Bringing seamless ease to your desktop，  
 > Yielding control with a delicate grace.  
 > Providing function without distraction,  
 > Always lightweight, a silent interaction.  
